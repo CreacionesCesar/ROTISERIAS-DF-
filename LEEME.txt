@@ -1,0 +1,28 @@
+ROTIYA - VERSION BASADA DIRECTAMENTE EN LA IMAGEN DE REFERENCIA
+
+IMPORTANTE:
+Esta carpeta ya incluye una carpeta assets con las imágenes recortadas de la imagen de referencia.
+Subí TODO el contenido de esta carpeta al repositorio, incluida la carpeta assets.
+
+Archivos principales:
+- index.html
+- styles.css
+- app.js
+
+Assets:
+- logo.png
+- hero-banner.jpg
+- store-alan.png
+- store-505.png
+- store-esquina.png
+- store-pollo.png
+- store-carlitos.png
+- pollo-asado.jpg
+- costilla.jpg
+- milanesa.jpg
+- empanadas.jpg
+- ensalada.jpg
+- papas.jpg
+
+La tarjeta de producto funciona: al tocarla se agrega al carrito.
+No hay botón "Agregar" ni texto de stock.
