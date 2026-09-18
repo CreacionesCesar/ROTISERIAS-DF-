@@ -1,0 +1,20 @@
+ROTIYA - VERSION BASADA EN LA IMAGEN DE REFERENCIA
+
+Reemplazar en GitHub:
+1. index.html
+2. styles.css
+3. app.js
+
+NO borrar la carpeta assets.
+
+La versión usa:
+- assets/logo.png
+- fotos de productos existentes
+- nombres de archivos store-*.png para las 5 tarjetas de rotiserías.
+
+Si esos 5 logos no están todavía en assets, el sitio puede mostrar una imagen rota en el carrusel.
+Se incluyen como espacios previstos para que agregues los logos reales de:
+Alan, 505, La Esquina, El Pollo y Don Carlitos.
+
+Las tarjetas de productos no tienen botón Agregar ni stock.
+El click sobre una tarjeta agrega el producto al carrito.
