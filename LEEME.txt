@@ -1,0 +1,1 @@
+Esta versión tiene TODAS las imágenes incrustadas dentro de index.html. No necesita carpeta assets. Reemplazá index.html, styles.css y app.js si aparece. app.js queda incluido dentro de index.html; si tu repositorio tiene app.js, podés eliminarlo o dejarlo, porque esta versión no lo usa.
