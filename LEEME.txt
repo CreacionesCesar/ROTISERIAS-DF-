@@ -1,0 +1,20 @@
+ROTIYA — VERSIÓN NUEVA
+=======================
+
+Esta versión parte del HTML funcional de la otra app y conserva su lógica
+(Firebase, rotiserías, menú, carrito, pedidos, administrador y rutas).
+
+Cambios visuales:
+- Portada negra inspirada en la maqueta RotiYa.
+- Logo RotiYa en la cabecera.
+- Banner visual.
+- Rotiserías en tarjetas horizontales.
+- Deslizamiento con el dedo en celular.
+- Flechas + indicadores del carrusel.
+- Sección OFERTAS DEL DÍA con estética roja.
+- Tarjetas de productos con profundidad/3D.
+- Diseño responsive.
+
+IMPORTANTE:
+Subí index.html al mismo lugar donde tenías el HTML de la app funcional.
+La carpeta assets debe quedar al mismo nivel que index.html.
